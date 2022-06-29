@@ -1,4 +1,4 @@
-# Queue
+# Shopping item checklist
 
 Simple Shopping Cart Item app.
 
@@ -23,3 +23,7 @@ cd client && npm i
 ```
 npm run dev
 ```
+
+## Api-URL
+
+https://shopping-2.herokuapp.com/
